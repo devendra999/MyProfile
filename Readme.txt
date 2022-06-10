@@ -1,3 +1,6 @@
+My Template Url 
+https://devendra999.github.io/MyProfile/
+
 Thanks for downloading this template!
 
 Template Name: iPortfolio
